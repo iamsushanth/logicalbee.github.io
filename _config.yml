@@ -24,6 +24,12 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:title
 twitter_username: iamkurdekar
 github_username:  iamsushanth
+instagram: sushanthkurdekar
+linkedin: sushanthkurdekar
+
+# youtube: Logical Bee
+# youtube_channel: logicalbee
+# youtube_channel_name: logicalbee
 
 
 # Build settings
@@ -31,6 +37,8 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
