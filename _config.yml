@@ -13,17 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Logical Beeeee
+title: Logical Bee
 email: logicalbee@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This Is Awesome :)
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://www.logicalbee.xyz" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:title
 twitter_username: iamkurdekar
 github_username:  iamsushanth
+youtube: Logical Bee
 instagram: sushanthkurdekar
 linkedin: sushanthkurdekar
 
@@ -39,6 +38,41 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-analytics
+
+
+jekyll_analytics:
+  GoogleAnalytics:          # Add, if you want to track with Google Analytics
+    id: UA-123-456          # Required - replace with your tracking id
+    anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
+
+minima:
+  social_links:
+    twitter: jekyllrb
+    github: jekyll
+    dribbble: jekyll
+    facebook: jekyll
+    flickr: jekyll
+    instagram: jekyll
+    linkedin: jekyll
+    pinterest: jekyll
+    telegram: jekyll
+    googleplus: +jekyll
+    microdotblog: jekyll
+    rss: rss
+
+    mastodon:
+     - username: jekyll
+       instance: example.com
+     - username: jekyll2
+       instance: example.com
+
+    youtube: jekyll
+    youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
+    youtube_channel_name: CloudCannon
+
+
+google_analytics: UA-NNNNNNNN-N
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
