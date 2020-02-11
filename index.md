@@ -8,7 +8,7 @@ title: Hi, I'm Tom Kadwill
 
 I'm a software developer and product designer. I like to build things and document the journey.
 
-See my best posts below or check out the [archive](/posts). You can also find me on [Twitter](https://twitter.com/tomkadwill), [YouTube](https://www.youtube.com/user/kadwill/videos) & [ProductHunt](https://www.producthunt.com/@tomkadwill/made).
+See my best posts below or check out the [archive](/posts). You can also find me on [Twitter](https://twitter.com/iamkurdekar), [YouTube](https://www.youtube.com/logicalbee).
 
 If you like my writing, subscribe to get posts in your inbox.
 
@@ -20,7 +20,7 @@ If you like my writing, subscribe to get posts in your inbox.
 	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
 <div id="mc_embed_signup" style="border-style:none;">
-<form action="https://tomkadwill.us7.list-manage.com/subscribe/post?u=858170d1a069716d224d84218&amp;id=ddcdaff721" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+<form action="https://logicalbee.us7.list-manage.com/subscribe/post?u=858170d1a069716d224d84218&amp;id=ddcdaff721" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
 	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
     <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->

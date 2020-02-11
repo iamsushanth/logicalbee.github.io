@@ -7,7 +7,7 @@ permalink: /contact/
 If you would like to get in contact with me, please email:
 
 <p style="text-align:center;font-size:-webkit-xxx-large">
-  <a href="mailto:tomkadwill@gmail.com">tomkadwill@gmail.com</a>
+  <a href="mailto:sushanth.uk@gmail.com">sushanth.uk@gmail.com</a>
 </p>
 
 I aim to reply to all enquiries within a few days.
@@ -17,8 +17,7 @@ I'm happy to discuss work, freelance or contract opportunities. Email me with so
 
 ### My Personal Projects
 The projects I actively maintain are:
-* <a href="https://commitcheck">CommitCheck</a>
-* <a href="https://prscheduler">PR Scheduler</a>
+
 
 I'd love to hear feedback or feature requests regarding these projects. Also, please contact me with any bugs or support requests.
 
