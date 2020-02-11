@@ -1,0 +1,268 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+table {
+  border-collapse: collapse;
+}
+
+table, td, th {
+  border: 1px solid black;
+}
+
+.projects-table, .projects-table table, .projects-table th {
+  border: 0px;
+}
+
+.projects-table td {
+  border: 0px;
+  padding: 10px
+}
+
+.image-40-left {
+  width: 40%;
+  float: left;
+  padding-right: 10px;
+}
+
+.image-40-right {
+  width: 40%;
+  float: right;
+  padding-left: 10px;
+}
+
+.image-50 {
+  max-width: 50%;
+  float: left;
+}
+
+.image-center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.project-logo-image {
+  max-width: 100px;
+  max-height: 100px;
+}
+
+.site-nav {
+  float: left;
+  padding-left: 30px;
+}
+
+.site-header {
+  border-bottom: none;
+}
+
+@media screen and (max-width: 600px) {
+  .site-nav {
+    padding-left: 0px;
+  }
+}
+
+.highlighter-rouge {
+  overflow: hidden;
+}
+
+/*
+* Carbon Ads
+*/
+@media only screen and (max-width: 768px) {
+  #flex {
+    display: flex;
+    /* Optional, if you want the DIVs 100% width: */
+    flex-direction: column;
+  }
+  #flex > #carbonads { order: 4; }
+  #flex > .post-content { order: 1; }
+  #flex > .post-meta { order: 2; }
+  #flex > .mailchimp-signup-form { order: 3; }
+
+  #carbonads {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", Helvetica, Arial,
+    sans-serif;
+  }
+
+  #carbonads {
+    display: block;
+    overflow: hidden;
+    max-width: 728px;
+    position: relative;
+    background-color: hsl(0, 0%, 99%);
+    border: solid 1px #eee;
+    font-size: 22px;
+    box-sizing: content-box;
+  }
+
+  #carbonads > span {
+    display: block;
+  }
+
+  #carbonads a {
+    color: inherit;
+    text-decoration: none;
+  }
+
+  #carbonads a:hover {
+    color: inherit;
+  }
+
+  .carbon-wrap {
+    display: flex;
+    align-items: center;
+  }
+
+  .carbon-img {
+    display: block;
+    margin: 0;
+    line-height: 1;
+  }
+
+  .carbon-img img {
+    display: block;
+    height: 90px;
+    width: auto;
+  }
+
+  .carbon-text {
+    display: block;
+    padding: 0 1em;
+    line-height: 1.35;
+    text-align: left;
+  }
+
+  .carbon-poweredby {
+    display: block;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    padding: 6px 10px;
+    background: repeating-linear-gradient(
+                    -45deg,
+                    transparent,
+                    transparent 5px,
+                    hsla(0, 0%, 0%, 0.025) 5px,
+                    hsla(0, 0%, 0%, 0.025) 10px
+    )
+    hsla(203, 11%, 95%, 0.8);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    font-weight: 600;
+    font-size: 8px;
+    border-top-left-radius: 4px;
+    line-height: 1;
+  }
+
+  @media only screen and (min-width: 320px) and (max-width: 759px) {
+    .carbon-text {
+      font-size: 14px;
+    }
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  // TODO
+  #carbonads {
+    display: flex;
+    float: right;
+    margin: 0 0 20px 20px;
+    max-width: 130px;
+    border-radius: 4px;
+    background-color: hsl(0, 0%, 98%);
+    box-shadow: 0 0 1px hsla(0, 0%, 0%, .15);
+    font-size: 11px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu,
+      Cantarell, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+  
+  #carbonads a {
+    color: #111;
+    text-decoration: none;
+  }
+  
+  #carbonads a:hover {
+    color: #111;
+  }
+  
+  .carbon-img {
+    display: block;
+    margin-bottom: 8px;
+    max-width: 130px;
+    line-height: 1;
+  }
+  
+  .carbon-img img {
+    display: block;
+    margin: 0 auto;
+    max-width: 130px;
+    width: 130px;
+    height: auto;
+  }
+  
+  .carbon-text {
+    display: block;
+    padding: 0 10px 8px;
+    text-align: left;
+    line-height: 1.35;
+  }
+  
+  .carbon-poweredby {
+    display: block;
+    padding: 10px;
+    background: repeating-linear-gradient(-45deg, transparent, transparent 5px, hsla(0, 0%, 0%, .025) 5px, hsla(0, 0%, 0%, .025) 10px) hsla(203, 11%, 95%, .4);
+    text-transform: uppercase;
+    letter-spacing: .5px;
+    font-weight: 600;
+    font-size: 8px;
+    line-height: 0;
+  }
+  
+  
+  @media only screen and (min-width: 320px) and (max-width: 759px) {
+    #carbonads {
+      position: relative;
+      float: none;
+      margin: 20px 0;
+      max-width: 330px;
+    }
+  
+    .carbon-wrap {
+      display: flex;
+      flex-direction: row;
+    }
+  
+    .carbon-img {
+      margin: 0;
+    }
+  
+    .carbon-text {
+      padding: 10px 10px 0 10px;
+      font-size: 12px;
+    }
+  
+    .carbon-poweredby {
+      position: absolute;
+      right: 0;
+      bottom: 0;
+      border-radius: 0;
+      border-top-left-radius: 3px;
+      text-align: center;
+    }
+  }
+}
+
+/*
+* Individual blog post styling
+*/
+
+// 2020-01-24-flexbox-with-media-queries
+.carbon-ads-images {
+  display: flex;
+  justify-content: center;
+}
