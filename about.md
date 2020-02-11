@@ -1,15 +1,9 @@
 ---
-title: About
 layout: page
-permalink: "/about/"
+title: About
+permalink: /about/
 ---
 
-Hi, I'm sushanth 
 
-![](https://iamsushanth.github.io/images/photo.jpg)
 
-sushanthkurdekarSoftware Developer, Student and YouTuber 
-
-See some of my work here on Github iamsushanth
-Resume
-sushanth.uk@gmail.com.!
+We all want a positive, active Python community where women are encouraged to participate, and one which feels friendly and approachable to all. We achieve that by volunteering our time to PyLadies events and encouraging other women to engage in projects. 
