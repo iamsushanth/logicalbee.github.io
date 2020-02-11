@@ -3,7 +3,7 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: page
-title: Hi, I'm Tom Kadwill
+title: Hi, I'm Sushanth Kurdekar
 ---
 
 I'm a software developer and product designer. I like to build things and document the journey.
