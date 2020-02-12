@@ -7,7 +7,7 @@ layout: default
 
 <div class="home">
   {%- if page.title -%}
-    <h1 class="post-title">{{ page.title }}</h1>
+    <h3 class="post-title">{{ page.title }}</h3>
   {%- endif -%}
 
   {%- if site.posts.size > 0 -%}
