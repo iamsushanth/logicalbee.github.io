@@ -21,7 +21,7 @@ If you like my writing, subscribe to get posts in your inbox.
 	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
 <div id="mc_embed_signup" style="border-style:none;">
-<form action="https://logicalbee.us7.list-manage.com/subscribe/post?u=858170d1a069716d224d84218&amp;id=ddcdaff721" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+<form action="https://logicalbee.us4.list-manage.com/subscribe/post?u=4b3196b6723d41d1ceec2de6f&amp;id=b9c30d9ce9" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
 	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
     <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->

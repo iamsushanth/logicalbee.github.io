@@ -6,7 +6,7 @@ permalink: /about/
 
 I'm a Software Engineer, based in the India. I've been creating things on the web for 3 years now. I've also worked for some small startups whose names you wouldn't have heard of. You can get in touch with me via <a href="mailto:sushanth.uk@gmail.com">email</a> or <a href="https://twitter.com/iamkurdekar">Twitter</a>.
 
-![Su](/assets/su.png){:.image-40-right}
+![Su](/assets/su.jpg){:.image-40-right}
 
 ### A little more..
 
