@@ -6,7 +6,7 @@ permalink: /contact/
 
 If you would like to get in contact with me, please email:
 
-<p style="text-align:center;font-size:-webkit-xxx-large">
+<p style="text-align:center;font-size:18px;">
   <a href="mailto:sushanth.uk@gmail.com">sushanth.uk@gmail.com</a>
 </p>
 

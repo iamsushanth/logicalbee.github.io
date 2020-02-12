@@ -3,8 +3,9 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: page
-title: Hi, I'm Sushanth Kurdekar
 ---
+
+<h1>Hi, I'm Sushanth</h1>
 
 I'm a software developer and product designer. I like to build things and document the journey.
 
@@ -24,7 +25,7 @@ If you like my writing, subscribe to get posts in your inbox.
     <div id="mc_embed_signup_scroll">
 	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
     <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_858170d1a069716d224d84218_ddcdaff721" tabindex="-1" value=""></div>
+    <div style="position: absolute; left: -4000px;" aria-hidden="true"><input type="text" name="b_858170d1a069716d224d84218_ddcdaff721" tabindex="-1" value=""></div>
     <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
     </div>
 </form>
@@ -53,5 +54,7 @@ You can see a [full list of all my posts](/posts) or read the most popular below
 * [Dockerizing Existing Rails App](/dockerizing-existing-rails-app)
 
 * [Stimulus JS](/2018/02/06/stimulus-js)
+
+
 
 
