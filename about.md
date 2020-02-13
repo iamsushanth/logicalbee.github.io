@@ -10,7 +10,8 @@ I'm a Software Engineer, based in the India. I've been creating things on the we
 
 ### A little more..
 
-I'm passionate about software, technology and design. I spend most of my time working with Ruby and JavaScript. Throughout my career I've worked on both backend and frontend.
+I'm passionate about software, technology and design.
+ I spend most of my time working with latest technologies. Throughout my career I've worked on both backend and frontend.
 
 I love to [write](/posts) and publish [videos](https://www.youtube.com/logicalbee) about the stuff I'm building.
 

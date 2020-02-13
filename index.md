@@ -7,7 +7,7 @@ layout: page
 
 <h1>Hi, I'm Sushanth</h1>
 
-I'm a software developer and product designer. I like to build things and document the journey.
+I'm a software Engineer and Content creator. I like to build things and document the journey.
 
 See my best posts below or check out the [archive](/posts). You can also find me on [Twitter](https://twitter.com/iamkurdekar), [YouTube](https://www.youtube.com/logicalbee).
 
@@ -37,24 +37,15 @@ If you like my writing, subscribe to get posts in your inbox.
 
 You can see a [full list of all my posts](/posts) or read the most popular below.
 
-* [12 Startups In 12 month, The Good And Bad](/12-startups-12-months)
+* [C++ STL Algorithms Cheat Sheet](/C++STL-Algorithms-Cheat-Sheet)
 
-* [GitHub Marketplace Unverified Listings](/github-marketplace-unverified-listing)
+* [How To Add Google Adsense with Gatsby](/How-To-Add-Google-Adsense-with-Gatsby)
 
-* [When to use git fetch, git pull and git reset --hard](/git-reset-or-git-pull)
+* [8086 Assembly Level Programming](/8086-Assembly-Level-Programming)
 
-* [Brave vs Chrome With Ad Blockers](/brave-vs-chrome-with-ad-blockers)
+* [How to Override CSS Styles in Jekyll](/how-to-override-css-styles-in-jekyll)
 
-* [Counting Or Sorting By An Association In A Rails SQL Query](/2017/12/18/counting-or-sorting-by-an-association-in-a-rails-sql-query)
-
-* [Benefits Of Switching From Unicorn To Puma](/benefits-of-switching-from-unicorn-to-puma)
-
-* [How to Override CSS Styles in Jekyll](/2017/12/16/how-to-override-css-styles-in-jekyll)
-
-* [Dockerizing Existing Rails App](/dockerizing-existing-rails-app)
-
-* [Stimulus JS](/2018/02/06/stimulus-js)
-
+* [Programming Blog](https://www.logicalnumbers.com)
 
 
 
