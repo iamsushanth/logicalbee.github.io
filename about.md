@@ -16,3 +16,7 @@ I'm passionate about software, technology and design.
 I love to [write](/posts) and publish [videos](https://www.youtube.com/logicalbee) about the stuff I'm building.
 
 Over the years I've worked on many [projects](/projects), some OSS some not. You can follow me on [GitHub](http://github.com/iamsushanth) to keep up to date.
+
+<script src="https://apis.google.com/js/platform.js"></script>
+
+<div class="g-ytsubscribe" data-channelid="UC9tyRI1L7Ag97i0DZbUX5Dg" data-layout="full" data-count="default"></div>

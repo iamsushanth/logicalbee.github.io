@@ -47,6 +47,9 @@ You can see a [full list of all my posts](/posts) or read the most popular below
 
 * [Programming Blog](https://www.logicalnumbers.com)
 
+<script src="https://apis.google.com/js/platform.js"></script>
+
+<div class="g-ytsubscribe" data-channelid="UC9tyRI1L7Ag97i0DZbUX5Dg" data-layout="full" data-count="default"></div>
 
 
 

@@ -5,7 +5,7 @@ permalink: /posts/
 layout: default
 ---
 
-<div class="home">
+<div class="home" style="min-width: 55%;">
   {%- if page.title -%}
     <h3 class="post-title">{{ page.title }}</h3>
   {%- endif -%}
@@ -15,11 +15,13 @@ layout: default
       {%- for post in site.posts -%}
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        
         <h4>
+
           <a class="post" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
-          </a>
+          </a> &nbsp; &nbsp;
+          <span class="post-meta" style="float:right;">{{ post.date | date: date_format }}</span>
         </h4>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
