@@ -16,13 +16,13 @@ layout: default
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         
-        <h4>
+        <h3>
 
           <a class="post" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a> &nbsp; &nbsp;
           <span class="post-meta" style="float:right;">{{ post.date | date: date_format }}</span>
-        </h4>
+        </h3>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}
