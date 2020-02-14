@@ -4,6 +4,18 @@ title: A list of things I've made
 permalink: /projects/
 ---
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- bee -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-6155459918319745"
+     data-ad-slot="8662553847"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 <h3><a href="#">Sentiment Analysis Using Twitter API</a></h3>
 <p>
   It's useful for scheduling blog posts with static site generators like Jekyll and Octopress.

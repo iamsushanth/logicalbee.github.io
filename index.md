@@ -32,8 +32,18 @@ If you like my writing, subscribe to get posts in your inbox.
 </div>
 
 <!--End mc_embed_signup-->
-
 <br />
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- bee -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-6155459918319745"
+     data-ad-slot="8662553847"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 You can see a [full list of all my posts](/posts) or read the most popular below.
 
