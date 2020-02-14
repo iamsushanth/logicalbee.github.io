@@ -4,17 +4,14 @@ title: A list of things I've made
 permalink: /projects/
 ---
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- bee -->
-<ins class="adsbygoogle"
-     style="display:block"
+<amp-ad width="100vw" height="320"
+     type="adsense"
      data-ad-client="ca-pub-6155459918319745"
-     data-ad-slot="8662553847"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+     data-ad-slot="5814056896"
+     data-auto-format="rspv"
+     data-full-width="">
+  <div overflow=""></div>
+</amp-ad>
 
 <h3><a href="#">Sentiment Analysis Using Twitter API</a></h3>
 <p>
