@@ -26,7 +26,7 @@ If you like my writing, subscribe to get posts in your inbox.
 	<input type="email" value="" name="email" class="email" id="mce-EMAIL" placeholder="email address" required>
     <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
     <div style="position: absolute; left: -4000px;" aria-hidden="true"><input type="hidden" name="uri" tabindex="-1" value="LogicalBee"></div>
-    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    <div class="clear"><input type="submit" class="btn btn-success" value="Sign Up to get Free Updates &raquo;" /></div>
     </div>
 </form>
 </div>
