@@ -45,7 +45,7 @@ import AdSense from 'react-adsense';
 <AdSense.Google
   client='ca-pub-NNNNNNNNNNNNNNNN'
   slot='7806394673'
-  style={{ width: 500, height: 300, float: 'left' }}
+  style={ width: 500, height: 300, float: 'left' }
   format=''
 />
 
@@ -53,7 +53,7 @@ import AdSense from 'react-adsense';
 <AdSense.Google
   client='ca-pub-NNNNNNNNNNNNNNNN'
   slot='7806394673'
-  style={{ display: 'block' }}
+  style={ display: 'block' }
   layout='in-article'
   format='fluid'
 />
@@ -62,7 +62,7 @@ import AdSense from 'react-adsense';
 <AdSense.Google
   client='ca-pub-NNNNNNNNNNNNNNNN'
   slot='7806394673'
-  style={{ display: 'block' }}
+  style={ display: 'block' }
   format='auto'
   responsive='true'
   layoutKey='-gw-1+2a-9x+5c'
