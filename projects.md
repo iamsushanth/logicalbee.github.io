@@ -16,7 +16,6 @@ permalink: /projects/
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-[Try it online!](https://tio.run/##K6gsycjPM/7/v6AoM69EQ8kjNScnX0chPL8oJ0VRSfP/fwA "Python 3 – Try It Online")
 
 <h3><a href="#">Sentiment Analysis Using Twitter API</a></h3>
 <p>
